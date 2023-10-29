@@ -18,3 +18,9 @@
 [comment added:  Also, please add your github public link in a document or comment box in your submission so that it is accessible for grading.
 
 Also any proof of collaboration of team members can be added to the submission].
+
+List of github links:
+1. Alan Zavala: https://github.com/AlanZavalaCSUS
+2. Rebecca Fitzpatrick: https://github.com/RebeccaFitzpatrick
+3. Tyrice Woods: https://github.com/tyriceWoodsCSUS
+4. Zachary Attiya: https://github.com/notchrubble 
