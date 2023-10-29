@@ -1,11 +1,11 @@
 # CSC131-Lab2
-[] Select one team member as the Git master of your group. The master needs to create a repository, and add your teammates and the instructor (uppala@csus.edu) as "Collaborators" in the "Settings" tab. (All members excluding the master will receive an email from Git, which informs you that you have been added to the master's repository.) 
+[x] Select one team member as the Git master of your group. The master needs to create a repository, and add your teammates and the instructor (uppala@csus.edu) as "Collaborators" in the "Settings" tab. (All members excluding the master will receive an email from Git, which informs you that you have been added to the master's repository.) 
 
 [] All members clone the repository created by the master in your Eclipse.
 
 [] All members create a java project named "Lab02" in your Eclipse, and link it to your local git repository. 
 
-[] The master downloads Hello.java Download Hello.java, add it to your Lab02 project in Eclipse. Update line 8 with his/her information, then save, commit, push the change to Git.
+[x] The master downloads Hello.java Download Hello.java, add it to your Lab02 project in Eclipse. Update line 8 with his/her information, then save, commit, push the change to Git.
 
 [] Everyone else (excluding the master) pull the latest change from Git, which is the java file just added by the master.
 
@@ -18,3 +18,9 @@
 [comment added:  Also, please add your github public link in a document or comment box in your submission so that it is accessible for grading.
 
 Also any proof of collaboration of team members can be added to the submission].
+
+List of github links:
+1. Alan Zavala: https://github.com/AlanZavalaCSUS
+2. Rebecca Fitzpatrick: https://github.com/RebeccaFitzpatrick
+3. Tyrice Woods: https://github.com/tyriceWoodsCSUS
+4. Zachary Attiya: https://github.com/notchrubble 
