@@ -23,4 +23,5 @@ List of github links:
 1. Alan Zavala: https://github.com/AlanZavalaCSUS
 2. Rebecca Fitzpatrick: https://github.com/RebeccaFitzpatrick
 3. Tyrice Woods: https://github.com/tyriceWoodsCSUS
-4. Zachary Attiya: https://github.com/notchrubble 
+4. Zachary Attiya: https://github.com/notchrubble
+5. Oanh Dingle: https://github.com/O-Dingle
