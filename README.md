@@ -25,3 +25,5 @@ List of github links:
 3. Tyrice Woods: https://github.com/tyriceWoodsCSUS
 4. Zachary Attiya: https://github.com/notchrubble
 5. Oanh Dingle: https://github.com/O-Dingle
+6. Nicholas Eovva: https://github.com/eovva
+7. Raz Ibrahimi: https://github.com/razibrahimi
